@@ -22,7 +22,7 @@ appears with its author.
 ## 🛠️ Technologies Used
 
 -   **HTML** -- Structure\
--   **CSS** -- Styling (optional, if you add styles)\
+-   **CSS** -- Styling 
 -   **JavaScript (ES6)** -- Fetch API, Async/Await, DOM Manipulation\
 -   **API Ninjas Quotes API** -- For quotes data
 
@@ -58,7 +58,8 @@ appears with its author.
 
 ## 📸 Example Screenshot
 
-*(Add a screenshot of your app here)*
+<img width="1731" height="843" alt="image" src="https://github.com/user-attachments/assets/165e62ba-3fd2-4943-8ec9-75043a696fc0" />
+
 
 ------------------------------------------------------------------------
 
